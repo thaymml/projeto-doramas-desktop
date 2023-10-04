@@ -58,7 +58,7 @@ main .dorama .imagem {
 .conteudo .logo {
     background-image: url("../imagens/logo-dorama.png");
     background-size: cover;
-    height: 150px;
+    height: 100px;
     width: 230px;
     margin-bottom: 35px;
 }
